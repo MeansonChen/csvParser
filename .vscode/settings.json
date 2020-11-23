@@ -1,0 +1,7 @@
+{
+    "code-runner.customCommand": "gcc -o build/main.out -Iinc/ src/* && build/main.out",
+    "cSpell.words": [
+        "Cintinued",
+        "DQUOTE"
+    ]
+}
